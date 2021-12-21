@@ -1,0 +1,23 @@
+{
+    "manifest_version": 2,
+
+    "name": "Chrome RPC",
+    "description": "Chrome Discord RPC 狀態導出插件",
+    "version": "2",
+
+    "background": {
+        "scripts": ["./vendor/jquery/jquery-3.2.1.min.js", "./js/background.js"],
+        "persistent": true
+    },
+
+    "icons": {
+        "16": "icon_16.png",
+        "48": "icon_48.png",
+        "128": "icon_128.png"
+    },
+
+    "permissions": [
+        "http://localhost/*",
+        "tabs"
+    ]
+}

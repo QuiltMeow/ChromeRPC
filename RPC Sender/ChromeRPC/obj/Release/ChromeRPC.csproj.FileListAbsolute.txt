@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\ChromeRPC\ChromeRPC\bin\Release\SkinH_Net.dll
+C:\Users\USER\source\repos\ChromeRPC\ChromeRPC\bin\Release\Skin.she
+C:\Users\USER\source\repos\ChromeRPC\ChromeRPC\bin\Release\ChromeRPC.exe
+C:\Users\USER\source\repos\ChromeRPC\ChromeRPC\bin\Release\ChromeRPC.pdb
+C:\Users\USER\source\repos\ChromeRPC\ChromeRPC\bin\Release\DiscordRPC.dll
+C:\Users\USER\source\repos\ChromeRPC\ChromeRPC\bin\Release\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\ChromeRPC\ChromeRPC\bin\Release\SkinH_CS.dll
+C:\Users\USER\source\repos\ChromeRPC\ChromeRPC\bin\Release\DiscordRPC.pdb
+C:\Users\USER\source\repos\ChromeRPC\ChromeRPC\bin\Release\DiscordRPC.xml
+C:\Users\USER\source\repos\ChromeRPC\ChromeRPC\bin\Release\Newtonsoft.Json.xml
+C:\Users\USER\source\repos\ChromeRPC\ChromeRPC\obj\Release\ChromeRPC.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\ChromeRPC\ChromeRPC\obj\Release\ChromeRPC.MainForm.resources
+C:\Users\USER\source\repos\ChromeRPC\ChromeRPC\obj\Release\ChromeRPC.Properties.Resources.resources
+C:\Users\USER\source\repos\ChromeRPC\ChromeRPC\obj\Release\ChromeRPC.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\ChromeRPC\ChromeRPC\obj\Release\ChromeRPC.csproj.CopyComplete
+C:\Users\USER\source\repos\ChromeRPC\ChromeRPC\obj\Release\ChromeRPC.exe
+C:\Users\USER\source\repos\ChromeRPC\ChromeRPC\obj\Release\ChromeRPC.pdb
